@@ -3,3 +3,5 @@ prototype/
 doc/
 
 src/frontend/mobile-1.0.0/
+
+src/backend/db.sqlite3
