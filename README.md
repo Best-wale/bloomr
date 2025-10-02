@@ -1,2 +1,2 @@
-##Bloomr
+#Bloomr
 Bloomr is a farm-to-market super app that connects farmers, buyers, and investors through a transparent, blockchain-powered ecosystem. Built with React/React Native (frontend), Django (backend), and Hedera Hashgraph (escrow + tokenization), Bloomr enables fairer prices for farmers, fresher produce for buyers, and new investment opportunities for urban and diaspora investors.
